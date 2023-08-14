@@ -1,0 +1,17 @@
+{
+  "name": "vs-project---etl-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "corepack": "^0.18.0",
+    "express": "^4.18.2",
+    "npm": "^9.6.7",
+    "pg": "^8.11.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
